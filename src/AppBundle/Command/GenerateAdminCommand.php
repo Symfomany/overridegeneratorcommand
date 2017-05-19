@@ -11,7 +11,7 @@ use Symfony\Component\Console\Input\InputArgument;
 
 /**
 * @class GenerateDoctrineCrudCommand
-* This Classs Override GenerateDoctrineCrudCommand class
+* This Classs overrides GenerateDoctrineCrudCommand
 * 
 */
 class GenerateAdminCommand extends GenerateDoctrineCrudCommand
